@@ -1,0 +1,164 @@
+head {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: ;
+}
+
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-color: #d0e7e6;
+  color: #003c71;
+  line-height: 1.7;
+  padding: 70px;
+}
+
+header {
+  background-color: #00274a;
+  color: white;
+  padding: 70px;
+  text-align: center;
+  border-bottom: 3px solid #003c71;
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+h2 {
+  color: #000000;
+  font-size: 24px;
+  margin: 10px 0 3px;
+  text-align: left;
+}
+
+h3 {
+  color: #000000;
+  font-size: 20px;
+  margin: 15px 0 8px;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 15px;
+  text-align: justify;
+  text-decoration-color: #000000;
+}
+
+ul,
+ol {
+  margin-left: 30px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+li {
+  margin: 6px 0;
+}
+
+img {
+  border: 2px solid #f7f3ea;
+  border-radius: 8px;
+  margin: 12px auto;
+  display: block;
+}
+
+iframe {
+  border: 2px solid #00274a;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ffffff;
+  background-color: #003c71;
+  padding: 4px 8px;
+  border-radius: 5px;
+}
+
+main {
+  width: 90%;
+  max-width: 1000px;
+  margin: 25px auto;
+}
+
+footer {
+  background-color: #12121a;
+  color: #cccccc;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+  border-top: 3px solid #000000;
+  font-size: 14px;
+}
+
+.contenido {
+  background-color: #1a1a24;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #000000;
+  margin-bottom: 20px;
+}
+
+.informacion {
+  background-color: #624627;
+  padding: 18px;
+  border-radius: 10px;
+  border-left: 4px solid #1e1e1e;
+  margin-bottom: 20px;
+}
+
+.lista-seccion {
+  background-color: #1a1a24;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.caso {
+  background-color: #1a1a24;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #00274a;
+  margin-bottom: 25px;
+}
+
+.columna {
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #1a1a24;
+  padding: 18px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.video {
+  background-color: #1a1a24;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 25px 0;
+}
+
+.conclusion {
+  background-color: #285789;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+#dato-curioso {
+  color: #000000;
+}
+
+#video-teoria {
+  border: 1px solid #285789;
+}
